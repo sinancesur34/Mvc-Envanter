@@ -8,3 +8,6 @@
 
 ## yukarıdan canlı veriyi çekme
 - `git pull`
+
+## değişiklik kontrol etme (her seferinde değişiklik et)
+- `git status`
