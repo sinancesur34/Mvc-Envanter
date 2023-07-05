@@ -11,3 +11,6 @@
 
 ## değişiklik kontrol etme (her seferinde değişiklik et)
 - `git status`
+
+- bele vaziyetin içine soxum
+- 
